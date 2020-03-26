@@ -91,7 +91,7 @@ function start() {
       }
     } else {
       for (let i = 0; i < totalPlayers; i++) {
-        let player = new Player(new Brain(5, 8, 2));
+        let player = new Player(new Brain(5, 7, 2));
         player.moveTo(50, height / 2);
         game.addPlayer(player);
       }
