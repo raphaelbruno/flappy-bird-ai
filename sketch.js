@@ -43,7 +43,7 @@ function setup() {
     start();
   });
 
-  buttonLoadBrain = createButton('Load Treined Brain');
+  buttonLoadBrain = createButton('Load Trained Brain');
   buttonLoadBrain.position((width - buttonLoadBrain.width) / 2, height / 2);
   buttonLoadBrain.mousePressed(() => {
     machineLearn = false;
