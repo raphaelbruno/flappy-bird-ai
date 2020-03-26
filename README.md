@@ -1,5 +1,5 @@
 # Flappy Bird (Machine Learn)
-This is a core of a Flappy Bird based game using Machine Learn to train the software to play.
+This is a JavaScript implementation of the core of a Flappy Bird based game using Machine Learn to train the software to play.
 
 There are 3 options here:
 * **Play**
